@@ -1,9 +1,13 @@
-# [Parbat](https://en.wikipedia.org/wiki/Nanga_Parbat)
+![logo](parbat.jpg)
+# Parbat
 --
 `This is a very first draft`
 --
 ## Introduction
-Parbat is an open source project with aim to build an [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) for an tertiary education institute such as universities. There are many open source [Learning Mangement Systems](https://en.wikipedia.org/wiki/Learning_management_system)(LMS) but a comprehensive campus management solution integrated with LMS and other modules is rare in open source world. 
+Parbat is an open-source project with the aim to build an [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) for a tertiary education institute such as universities. There are many open-source [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system)(LMS) but a comprehensive campus management solution integrated with LMS and other modules is rare in the open-source world. 
+
+### Name:
+Parbat name is taken from Pakistan's famous mountain [Nanga Parbat](https://en.wikipedia.org/wiki/Nanga_Parbat). 
 
 ## Team
 - [Muhammad Qasim Pasta](http://qasimpasta.info), Assistant Professor, [Habib University](http://habib.edu.pk)
@@ -15,5 +19,3 @@ Parbat is an open source project with aim to build an [ERP](https://en.wikipedia
 - Asma Hai
 - Syed Fasih
 - Ruwaida Rauf
-
-
