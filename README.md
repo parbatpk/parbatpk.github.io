@@ -11,7 +11,7 @@ Parbat name is taken from Pakistan's famous mountain [Nanga Parbat](https://en.w
 
 ## Team
 - [Muhammad Qasim Pasta](http://qasimpasta.info), Assistant Professor, [Habib University](http://habib.edu.pk)
-- Maaz Khan
+- [Maaz Khan](https://www.linkedin.com/in/immaazkhan)
 - Muhammad Ahsan Khan
 - Muhammad Rafay
 - Muhammad Amir
