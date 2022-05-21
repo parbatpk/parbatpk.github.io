@@ -13,6 +13,8 @@ Parbat name is taken from Pakistan's famous mountain [Nanga Parbat](https://en.w
 - [Muhammad Qasim Pasta](http://qasimpasta.info), Assistant Professor, [Habib University](http://habib.edu.pk)
 - [Maaz Khan](https://maazk9119.github.io),  Associate Consultant Enterprise Resource Planning, [Systems Limited](https://www.systemsltd.com/about-us)
 - [Muhammad Ahsan Khan](https://www.linkedin.com/in/muhammad-ahsan-khan/), Software Engineer, [NorthBay Solutions](https://northbaysolutions.com/)
+
+## Past Team
 - Muhammad Rafay
 - Muhammad Amir
 - Muhammad Shahmir
