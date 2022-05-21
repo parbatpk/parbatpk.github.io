@@ -12,4 +12,6 @@ Currently, we are looking for contributors passionate about .NET Core for the fo
 * developing documents of already developed user functionalities.
 * QA of user functionalities
 
+If you are interested then reach us at parbat@irada.pk. 
+
 [Home](https://parbatpk.github.io/)
