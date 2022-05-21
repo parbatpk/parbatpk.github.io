@@ -1,23 +1,13 @@
 ![logo](parbat.jpg)
-# Parbat
---
-`This is a very first draft`
---
-## Introduction
-Parbat is an open-source project with the aim to build an [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) for a tertiary education institute such as universities. There are many open-source [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system)(LMS) but a comprehensive campus management solution integrated with LMS and other modules is rare in the open-source world. 
+# [Parbat](https://parbatpk.github.io/)
 
-### Name:
-Parbat name is taken from Pakistan's famous mountain [Nanga Parbat](https://en.wikipedia.org/wiki/Nanga_Parbat). 
+# `Call for Contributors - Summer 2022`
 
-## Team
-- [Muhammad Qasim Pasta](http://qasimpasta.info), Assistant Professor, [Habib University](http://habib.edu.pk)
-- [Maaz Khan](https://maazk9119.github.io),  Associate Consultant Enterprise Resource Planning, [Systems Limited](https://www.systemsltd.com/about-us)
-- [Muhammad Ahsan Khan](https://www.linkedin.com/in/muhammad-ahsan-khan/), Software Engineer, [NorthBay Solutions](https://northbaysolutions.com/)
+We are a team of passionate developers working on an open-source project for territory institutions. The objective of the project is to build a comprehensive solution including campus management solution, learning management system, student finances, etc.
 
-## Past Team
-- Muhammad Rafay
-- Muhammad Amir
-- Muhammad Shahmir
-- Asma Hai
-- Syed Fasih
-- Ruwaida Rauf
+Currently, we are looking for contributors passionate about .NET Core for the following areas:
+
+* developing the basic user interface for end-user testing and API testing. We are working on .NET Core with MVC Web application.
+* developing application to automate API testing being part of CI pipepline
+* developing documents of already developed user functionalities.
+* QA of user functionalities
