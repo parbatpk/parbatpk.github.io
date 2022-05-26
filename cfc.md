@@ -8,7 +8,7 @@ We are a team of passionate developers working on an open-source project for ter
 Currently, we are looking for volunteers passionate about .NET Core for the following areas:
 
 * developing the basic user interface for end-user testing and API testing. We are working on .NET Core with MVC Web application.
-* developing application to automate API testing being part of CI pipepline
+* developing application to automate API testing being part of CI pipeline
 * developing documents of already developed user functionalities.
 * QA of user functionalities
 
